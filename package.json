@@ -1,0 +1,20 @@
+{
+  "name": "node-web",
+  "version": "1.0.0",
+  "description": "node teste",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosGava0702/node-openshift.git"
+  },
+  "author": "Carlos Gava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosGava0702/node-openshift/issues"
+  },
+  "homepage": "https://github.com/CarlosGava0702/node-openshift#readme"
+}
